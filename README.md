@@ -5,16 +5,15 @@
 
 - 🌱 I’m currently working on  **Advance Python**
 
-- 📝 I regularly write articles on [https://medium.com/@codesyla](https://medium.com/@codesyla)
+- 📝 I regularly write articles on [https://medium.com/@codesyla](https://medium.com/@tanishdewase222)
 
 - 📫 How to reach me **tanishdewase222@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sıla orak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sıla orak" height="30" width="40" /></a>
-<a href="https://kaggle.com/sıla orak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sıla orak" height="30" width="40" /></a>
-<a href="https://instagram.com/codesyla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codesyla" height="30" width="40" /></a>
-<a href="https://medium.com/@codesyla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codesyla" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/sıla](https://www.linkedin.com/in/tanish-d-792012255/) orak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sıla orak" height="30" width="40" /></a>
+<a href="[https://instagram.com/](https://www.instagram.com/tannisshhhhhh?igsh=ZGUzMzM3NWJiOQ==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codesyla" height="30" width="40" /></a>
+<a href="[https://medium.com/@codesyla](https://medium.com/@tanishdewase222)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codesyla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
