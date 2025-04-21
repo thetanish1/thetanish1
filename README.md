@@ -62,8 +62,8 @@
 
 <h3 align="left">Support Me:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/tanishdewase"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  <a href="https://www.youtube.com/@tanishdewasevlogs" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/Subscribe%20on-YouTube-red?logo=youtube&style=for-the-badge" height="50" alt="Subscribe on YouTube" />
   </a>
 </p>
 <br><br>
