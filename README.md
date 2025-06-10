@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=thetanish1&label=Profile%20views&color=0e75b6&style=flat" alt="Tanish" />
 </p>
 
-- 🌱 I’m currently working on **Advance Python**
+- 🌱 I’m currently working on **Django Framework and making Project on it**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@tanishdewase222)
 
