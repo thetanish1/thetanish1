@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@tanishdewase222)
 
-- 📫 Reach me at **tanishdewase222@gmail.com**
+- 📢 Reach me at **tanishdewase222@gmail.com**
 
 ---
 
