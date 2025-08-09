@@ -24,7 +24,11 @@
   <a href="https://medium.com/@tanishdewase222" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
+  <a href="https://hub.docker.com/u/thetanishdewase1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker Hub" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
