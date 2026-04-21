@@ -11,7 +11,6 @@
 - 🌱 **Currently mastering** Spring Boot & Java Backend  
 - 📝 **Writing** on [Medium](https://medium.com/@tanishdewase222) – check out my articles
 - 📝 **Writing Blog** on [Substack](https://tanishdewase.substack.com) – check out my System Design Blogs articles
--  
 - 📫 **Reach me** at [tanishdewase222@gmail.com](mailto:tanishdewase222@gmail.com)
 
 ---
