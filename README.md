@@ -1,96 +1,88 @@
-<h1 align="center">Hey, I'm Tanish Dewase</h1>
-<h3 align="center">A passionate Tech Developer who creates Projects and Practical Solutions</h3>
+<h1 align="center">✨ Hey, I'm Tanish Dewase ✨</h1>
+<h3 align="center">⚡ Tech Developer | Problem Solver | Creator of Practical Solutions ⚡</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thetanish1&label=Profile%20views&color=0e75b6&style=flat" alt="Tanish" />
 </p>
 
-- 🌱 I’m currently working on **Spring Boot Framework and Java Backend**
+---
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@tanishdewase222)
-
-- 📢 Reach me at **tanishdewase222@gmail.com**
+### 🚀 What I'm up to
+- 🌱 **Currently mastering** Spring Boot & Java Backend  
+- 📝 **Writing** on [Medium](https://medium.com/@tanishdewase222) – check out my articles  
+- 📫 **Reach me** at [tanishdewase222@gmail.com](mailto:tanishdewase222@gmail.com)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/tanish-d-792012255/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanish Dewase" height="30" width="40" />
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanish-d-792012255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/tannisshhhhhh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/tannisshhhhhh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://medium.com/@tanishdewase222" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  <a href="https://medium.com/@tanishdewase222" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://hub.docker.com/u/thetanishdewase1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker Hub" height="30" width="40" />
+  <a href="https://hub.docker.com/u/thetanishdewase1" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
   </a>
-</p>
-
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
- 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-
 </p>
 
 ---
 
-<h3 align="left">Support Me:</h3>
-<p>
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,git,docker,kubernetes,aws,gcp,mysql,mongodb,postgres,spring" />
+</p>
+
+> Also skilled in **Power BI**, **SQL**, and **MongoDB**.
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
   <a href="https://www.youtube.com/@tanishdewasevlogs" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/Subscribe%20on-YouTube-red?logo=youtube&style=for-the-badge" height="50" alt="Subscribe on YouTube" />
+    <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe"/>
   </a>
 </p>
-<br><br>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thetanish1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+### 📊 GitHub Analytics
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thetanish1&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thetanish1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=thetanish1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thetanish1&" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=thetanish1&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
----
+
+### 🐍 Contribution Snake
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+### 🎯 Fun Fact
+
+> "Code is like humor. When you have to explain it, it’s bad"  
+> But I'll explain it anyway 😄
+
+---
+
+<p align="center">
+  <i>Let's build something amazing together!</i>
+</p>
