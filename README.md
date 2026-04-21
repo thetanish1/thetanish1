@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hey, I'm Tanish Dewase ✨</h1>
-<h3 align="center">⚡ Tech Developer | Problem Solver | Creator of Practical Solutions ⚡</h3>
+<h1 align="center"> Hey, I'm Tanish Dewase </h1>
+<h3 align="center"> Tech Developer | Problem Solver | Creator of Practical Solutions </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thetanish1&label=Profile%20views&color=0e75b6&style=flat" alt="Tanish" />
@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 What I'm up to
+### What I'm up to
 - 🌱 **Currently mastering** Spring Boot & Java Backend  
 - 📝 **Writing** on [Medium](https://medium.com/@tanishdewase222) – check out my articles  
 - 📫 **Reach me** at [tanishdewase222@gmail.com](mailto:tanishdewase222@gmail.com)
@@ -39,11 +39,9 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,git,docker,kubernetes,aws,gcp,mysql,mongodb,postgres,spring" />
 </p>
 
-> Also skilled in **Power BI**, **SQL**, and **MongoDB**.
-
 ---
 
-### ☕ Support My Work
+###  Support My Work
 
 <p align="center">
   <a href="https://www.youtube.com/@tanishdewasevlogs" target="_blank">
@@ -66,7 +64,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -76,7 +74,7 @@
 
 ---
 
-### 🎯 Fun Fact
+###  Fun Fact
 
 > "Code is like humor. When you have to explain it, it’s bad"  
 > But I'll explain it anyway 😄
