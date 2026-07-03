@@ -1,19 +1,20 @@
-<h1 align="center"> Hey, I'm Tanish Dewase </h1>
-<h3 align="center"> Tech Developer | Problem Solver | Creator of Practical Solutions </h3>
+<h1 align="center">Hey, I'm Tanish Dewase 👋</h1>
+<h3 align="center">Tech Developer | Problem Solver | Creator of Practical Solutions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thetanish1&label=Profile%20views&color=0e75b6&style=flat" alt="Tanish" />
+  <img src="https://komarev.com/ghpvc/?username=thetanish1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
+<br>
 
-### What I'm up to
-- 🌱 **Currently mastering** Spring Boot & Java Backend  
-- 📝 **Writing** on [Medium](https://medium.com/@tanishdewase222) – check out my articles
-- 📝 **Writing Blog** on [Substack](https://tanishdewase.substack.com) – check out my System Design Blogs articles
+### 🚀 What I'm up to
+
+- 🌱 **Currently mastering** Spring Boot & Java Backend
+- 📝 **Writing** on [Medium](https://medium.com/@tanishdewase222) — check out my articles
+- 📝 **Blogging** on [Substack](https://tanishdewase.substack.com) — System Design deep dives
 - 📫 **Reach me** at [tanishdewase222@gmail.com](mailto:tanishdewase222@gmail.com)
 
----
+<br>
 
 ### 🌐 Connect with me
 
@@ -32,17 +33,17 @@
   </a>
 </p>
 
----
+<br>
 
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,git,docker,kubernetes,aws,gcp,mysql,mongodb,postgres,spring" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,git,docker,kubernetes,aws,gcp,mysql,mongodb,postgres,spring" alt="Tech stack icons" />
 </p>
 
----
+<br>
 
-###  Support My Work
+### 📺 Support My Work
 
 <p align="center">
   <a href="https://www.youtube.com/@tanishdewasevlogs" target="_blank">
@@ -50,7 +51,7 @@
   </a>
 </p>
 
----
+<br>
 
 ### 📊 GitHub Analytics
 
@@ -63,24 +64,24 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=thetanish1&theme=radical" alt="GitHub Streak" />
 </div>
 
----
+<br>
 
-###  Contribution Snake
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
+<br><br>
 
-###  Fun Fact
+### 💬 Fun Fact
 
-> "Code is like humor. When you have to explain it, it’s bad"  
+> "Code is like humor. When you have to explain it, it's bad."
 > But I'll explain it anyway 😄
 
----
+<br>
 
 <p align="center">
   <i>Let's build something amazing together!</i>
